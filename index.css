@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+}
+.title{
+    background: linear-gradient(to top right,#3366ff, #ff6666 100% 100%);
+    text-align: center;
+    height: 70px;
+    padding-top: 0px;
+    font-size:50px;
+}
+.codepage{
+    background-color: #ee4c4c;
+    height: fit-content;
+    width: auto;
+}
+.from{
+    float: left;
+    background: linear-gradient(to top, #99ff33 0%, #ff0000 100%);
+    background-color: aquamarine;
+    height: 650px;
+    width: 755px;
+}
+.to{
+    background: linear-gradient(to bottom left, #99ff33 0%, #009999 100%);
+    float: left;
+    background-color: #1a30c4;
+    height: 650px;
+    width: 755px;
+}
+.fromtotitle{
+    background-color: #ff45c7;
+    height: 30px;
+}
+.size{
+    font-size:23px;
+}
